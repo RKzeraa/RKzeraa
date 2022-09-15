@@ -23,7 +23,7 @@ Tenho contato com computação desde criança e atualmente estou estudando para 
 </div><br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RKzeraa&layout=compact&langs_count=7&border_radius=10px&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RKzeraa&layout=compact&langs_count=8&border_radius=10px&theme=blue-green"/>
 </div>
 <br>
 <div align="center">
