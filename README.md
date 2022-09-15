@@ -29,8 +29,7 @@ Tenho contato com computação desde criança e atualmente estou estudando para 
 <div align="center">
 
   <a href="https://github.com/RKzeraa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RKzeraa&show_icons=true&border_radius=10px&theme=blue-green&include_all_commits=true&count_private=true"/>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RKzeraa&show_icons=true&border_radius=10px&theme=blue-green&include_all_commits=true&count_public=true&count_private=true"/>
 </div>
 
 <h4 align="center"> 
