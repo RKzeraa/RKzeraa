@@ -9,7 +9,7 @@ Olá! Seja bem vindo ao meu Github, eu sou Ramom Karllos! 🇧🇷
  
 ```
 🔭 Estudante de Ciência da Computação na UFRPE - Universidade Federal Rural de Pernambuco. 
-Tenho contato com computação desde criança e atualmente estou estudando para me tornar um dev fullstack.
+Tenho contato com computação desde criança e atualmente estou estudando para me tornar um Desenvolvedor.
 ```
 
 
