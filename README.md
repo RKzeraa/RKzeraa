@@ -8,18 +8,23 @@ Olá! Seja bem vindo ao meu Github, eu sou Ramom Karllos! 🇧🇷
 </h3>
  
 ```
-🔭 Estudante de Ciência da Computação na UFRPE - Universidade Federal Rural de Pernambuco. 
-Tenho contato com computação desde criança e atualmente estou estudando para me tornar um Profissional da área de TI.
+👨🏽‍🎓 Técnico em Redes de Computadores na ETEMERB · Escola Técnica Estadual Maria Eduarda Ramos de Barros
+🔭 Estudante de Ciência da Computação na UFRPE · Universidade Federal Rural de Pernambuco. [Atual]
+👨🏾‍💻 Estágiario em Desenvolvimento Back-End na SECTI PE · Secretaria de Ciência, Tecnologia e Inovação do Estado de Pernambuco. [Atual]
+Tenho contato com computação desde criança, atualmente estou trabalhando e estudando para me tornar um bom profissional na área de TI.
 ```
 
 
 <div align="center" style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+
   
 </div><br>
 
@@ -32,12 +37,6 @@ Tenho contato com computação desde criança e atualmente estou estudando para 
   <a href="https://github.com/RKzeraa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RKzeraa&show_icons=true&border_radius=10px&theme=blue-green&include_all_commits=true&count_public=true&count_private=true"/>
 </div>
-
-<h4 align="center"> 
-  
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
-<h4>
   
 ##
 <h4 align="center">  
@@ -49,10 +48,10 @@ Tenho contato com computação desde criança e atualmente estou estudando para 
   
 <br>
   
-
+##
 <h4 align="center">
   
-![Visitas](https://visitor-badge.glitch.me/badge?page_id=RKzeraa)
+![](https://komarev.com/ghpvc/?username=rkzeraa&style=for-the-badge)
   
 <h4>
 
