@@ -29,13 +29,13 @@ Tenho contato com computação desde criança, atualmente estou trabalhando e es
 </div><br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RKzeraa&layout=compact&langs_count=8&border_radius=10px&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkzeraa&layout=compact&langs_count=8&border_radius=10px&theme=blue-green&hide=Less,jupyter%20notebook,scss"/>
 </div>
 <br>
 <div align="center">
 
   <a href="https://github.com/RKzeraa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RKzeraa&show_icons=true&border_radius=10px&theme=blue-green&include_all_commits=true&count_public=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rkzeraa&show_icons=true&border_radius=10px&theme=blue-green&include_all_commits=true&count_public=true&count_private=true"/>
 </div>
   
 ##
