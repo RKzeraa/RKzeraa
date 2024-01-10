@@ -1,18 +1,16 @@
-### Welcome my GitHub 👋
-
-<h3 align="center">  <br>
-
-Olá! Seja bem vindo ao meu Github, eu sou Ramom Karllos! 🇧🇷
+### 
+<h3 align="center">  
+Welcome my GitHub 👋 <br>Olá, eu sou Ramom Karllos! Seja bem vindo. 🚀🇧🇷
 <br>
 
 </h3>
  
-```
-👨🏽‍🎓 Técnico em Redes de Computadores na ETEMERB · Escola Técnica Estadual Maria Eduarda Ramos de Barros
-🔭 Estudante de Ciência da Computação na UFRPE · Universidade Federal Rural de Pernambuco. [Atual]
-👨🏾‍💻 Estágiario em Desenvolvimento Back-End na SECTI PE · Secretaria de Ciência, Tecnologia e Inovação do Estado de Pernambuco. [Atual]
-Tenho contato com computação desde criança, atualmente estou trabalhando e estudando para me tornar um bom profissional na área de TI.
-```
+
+
+```👨🏽‍🎓 Técnico em Redes de Computadores na ETEMERB · Escola Técnica Estadual Maria Eduarda Ramos de Barros```</br>
+```🔭 Estudante de Ciência da Computação na UFRPE · Universidade Federal Rural de Pernambuco. [Atual]```</br>
+```👨🏾‍💻 Estágiario em Desenvolvimento Back-End na SECTI PE · Secretaria de Ciência, Tecnologia e Inovação do Estado de Pernambuco. [Atual]```</br>
+
 
 
 <div align="center" style="display: inline_block"><br>
@@ -29,13 +27,13 @@ Tenho contato com computação desde criança, atualmente estou trabalhando e es
 </div><br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkzeraa&layout=compact&langs_count=8&border_radius=10px&theme=blue-green&hide=Less,jupyter%20notebook,scss"/>
+  <img height="180em" src="https://github-readme-stats-kdsm-rkzeraas-projects.vercel.app/api/top-langs/?username=rkzeraa&layout=compact&langs_count=8&border_radius=10px&theme=radical&hide=Less,jupyter%20notebook,scss"/>
 </div>
 <br>
 <div align="center">
 
   <a href="https://github.com/RKzeraa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rkzeraa&show_icons=true&border_radius=10px&theme=blue-green&include_all_commits=true&count_public=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-kdsm-rkzeraas-projects.vercel.app/api?username=rkzeraa&show_icons=true&border_radius=10px&theme=radical&include_all_commits=true&count_public=true&count_private=true"/>
 </div>
   
 ##
@@ -43,17 +41,11 @@ Tenho contato com computação desde criança, atualmente estou trabalhando e es
  <div>
    <a href="https://www.linkedin.com/in/ramomkarllos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
+ <br>
+ 
+ ![](https://komarev.com/ghpvc/?username=rkzeraa&style=for-the-badge)
 <h4>
   
-  
-<br>
-  
-##
-<h4 align="center">
-  
-![](https://komarev.com/ghpvc/?username=rkzeraa&style=for-the-badge)
-  
-<h4>
 
 
 <!--
