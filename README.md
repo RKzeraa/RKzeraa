@@ -9,7 +9,7 @@ Welcome my GitHub 👋 <br>Olá, eu sou Ramom Karllos! Seja bem vindo. 🚀🇧�
 
 ```👨🏽‍🎓 Técnico em Redes de Computadores na ETEMERB · Escola Técnica Estadual Maria Eduarda Ramos de Barros```</br>
 ```🔭 Estudante de Ciência da Computação na UFRPE · Universidade Federal Rural de Pernambuco. [Atual]```</br>
-```👨🏾‍💻 Estágiario em Desenvolvimento Back-End na SECTI PE · Secretaria de Ciência, Tecnologia e Inovação do Estado de Pernambuco. [Atual]```</br>
+```👨🏾‍💻 Estágiario em Dev. Back-End na SECTI PE · Secretaria de Ciência, Tecnologia e Inovação do Estado de Pernambuco. [Atual]```</br>
 
 
 
