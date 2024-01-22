@@ -42,8 +42,7 @@ Welcome my GitHub 👋 <br>Olá, eu sou Ramom Karllos! Seja bem vindo. 🚀🇧�
    <a href="https://www.linkedin.com/in/ramomkarllos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
  <br>
- 
- ![](https://komarev.com/ghpvc/?username=rkzeraa&style=for-the-badge)
+ <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Frkzeraa"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Frkzeraa&label=Visitantes%20(HOJE%2FTotal)&labelColor=%235b187e&countColor=%235b187e&labelStyle=upper" /></a>
 <h4>
   
 
