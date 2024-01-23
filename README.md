@@ -47,6 +47,7 @@
  <br>
  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Frkzeraa"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Frkzeraa&label=Visitantes%20(HOJE%2FTotal)&labelColor=%235b187e&countColor=%235b187e&labelStyle=upper" /></a>
 <h4>
+
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&fontColor=fff&color=0:3f0d5a,100:a82da8&fontAlign=90&fontAlignY=85&height=180&section=footer&text=👑+The+Lord+Lives&fontSize=15&animation=twinkling" />
 
