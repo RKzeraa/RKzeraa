@@ -1,9 +1,9 @@
 ### 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&fontColor=fff&color=0:3f0d5a,100:a82da8&fontAlign=20&fontAlignY=20&height=180&section=header&text=Welcome+My+GitHub!&fontSize=25&animation=twinkling" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?background=000&font=Press+Start+2P&color=fff&size=14&center=true&vCenter=true&pause=3000000&width=1000&height=60&lines=Hello+my+name+is+Ramom+Karllos.+🚀🇧🇷)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?background=3f0d5a&font=Press+Start+2P&color=fff&size=14&center=true&vCenter=true&pause=3000000&width=1000&height=60&lines=Hello+my+name+is+Ramom+Karllos.+🚀🇧🇷)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?background=000&duration=1000&repeat=false&multiline=true&font=Press+Start+2P&color=fff&size=9&center=true&vCenter=false&pause=2&width=1000&height=60&lines=👨🏽‍🎓+Técnico+em+Redes+de+Computadores+na+ETEMERB+·+Escola+Técnica+Estadual+Maria+Eduarda+Ramos+de+Barros.;🔭+Estudante+de+Ciências+da+Computação+na+UFRPE+·+Universidade+Federal+Rural+de+Pernambuco.+[Atual];👨🏾‍💻+Estágiario+em+Dev.+Back-End+na+SECTI+PE;·+Secretaria+de+Ciência,+Tecnologia+e+Inovação+do+Estado+de+Pernambuco.+[Atual])](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?background=3f0d5a&duration=1000&repeat=false&multiline=true&font=Press+Start+2P&color=fff&size=9&center=true&vCenter=false&pause=2&width=1000&height=60&lines=👨🏽‍🎓+Técnico+em+Redes+de+Computadores+na+ETEMERB+·+Escola+Técnica+Estadual+Maria+Eduarda+Ramos+de+Barros.;🔭+Estudante+de+Ciências+da+Computação+na+UFRPE+·+Universidade+Federal+Rural+de+Pernambuco.+[Atual];👨🏾‍💻+Estágiario+em+Dev.+Back-End+na+SECTI+PE;·+Secretaria+de+Ciência,+Tecnologia+e+Inovação+do+Estado+de+Pernambuco.+[Atual])](https://git.io/typing-svg)
 
 
 
