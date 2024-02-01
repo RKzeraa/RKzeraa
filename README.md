@@ -22,7 +22,7 @@
 </div><br><br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-pv-rkzeraas-projects.vercel.app/api/top-langs/?username=rkzeraa&layout=compact&title_color=fff&text_color=fff&bg_color=5b187e&langs_count=8&border_radius=10px&theme=radical&hide=Less,jupyter%20notebook,scss"/>
+  <img height="180em" src="https://github-readme-stats-pv-rkzeraas-projects.vercel.app/api/top-langs/?username=rkzeraa&layout=compact&title_color=fff&text_color=fff&bg_color=5b187e&langs_count=8&border_radius=10px&theme=radical&hide=Less,jupyter%20notebook,scss,batchfile"/>
   <br> 
   <br> 
   <img height="180em" src="https://github-readme-stats-pv-rkzeraas-projects.vercel.app/api?username=rkzeraa&title_color=fff&text_color=fff&bg_color=5b187e&show_icons=true&border_radius=10px&theme=radical&include_all_commits=true&count_public=true&count_private=true"/>
